@@ -1,0 +1,3 @@
+"COMP1531 Staff are only allowed to view the project marks
+(not the exam marks)." is a non-functional requirement for it is
+focusing on security rather than determine inputs and outputs.

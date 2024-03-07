@@ -1,0 +1,1 @@
+Yes this is considered to be memory safe. The convention is called non-optional built-in static type checking.

@@ -1,0 +1,3 @@
+"We need to ensure that the message entities and user entities are sufficiently
+decoupled." is in the design pahse of SDLC since the statement is showing the planning
+of the project.
